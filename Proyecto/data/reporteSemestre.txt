@@ -1,0 +1,6 @@
+--------------Reporte de 3 semestre--------------Cedula: 452353
+Nombre: camo
+Apellido: ar
+Semestre: 3
+Correo: camoasfas
+Celular: 35234345

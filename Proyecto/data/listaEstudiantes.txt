@@ -1,0 +1,5 @@
+1004509225,juan,Arevalo,4,Jdiego,3218061564
+523535345,ana,mera,4,anafdsfsdf,65452343
+30745399,Camilo,apellido,4,camiloassafgmail.com,31436445655
+12,fer,perez,2,fer@,312
+1234567,JuanDiego,Arevalo,4,juand.arevalo221@umariana.edu.co,1234567
